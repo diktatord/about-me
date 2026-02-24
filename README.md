@@ -1,4 +1,4 @@
-<h1 align="center">Привет ,Я diktatod </h1>
+<h1 align="center">Привет ,Я diktatord </h1>
 
 <p align="center">
    Начинающий разработчик | 🐍 Изучаю Python и Django  
