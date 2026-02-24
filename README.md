@@ -1,11 +1,11 @@
 <h1 align="center">Привет ,Я diktatod </h1>
 
 <p align="center">
-   Начинающий разработчик | 🚀 Изучаю Python и Django  
+   Начинающий разработчик | 🐍 Изучаю Python и Django  
   
 </p>
 
-## 🧠 Обо мне
+## Обо мне
 
 - Изучаю Python и создание сайтов 
 - Сейчас практикую Django  
@@ -24,6 +24,6 @@
 
 ---
 
-##Связь
+## Связь
 
 - GitHub: https://github.com/diktatord
